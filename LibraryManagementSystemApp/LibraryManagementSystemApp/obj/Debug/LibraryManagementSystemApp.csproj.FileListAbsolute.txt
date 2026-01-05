@@ -1,0 +1,11 @@
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\LibraryManagementSystemApp.exe.config
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\LibraryManagementSystemApp.exe
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\bin\Debug\LibraryManagementSystemApp.pdb
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.csproj.AssemblyReference.cache
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.Properties.Resources.resources
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.csproj.GenerateResource.cache
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.exe
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.pdb
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystemApp.exe.config
+C:\Users\khaya\Downloads\Projects\C# Programming Project\LibraryManagementSystemApp\LibraryManagementSystemApp\obj\Debug\LibraryManagementSystem.LoginForm.resources
